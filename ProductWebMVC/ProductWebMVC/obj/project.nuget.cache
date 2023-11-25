@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RDdQM6oQXhH2HTiB0OVrGyrENhImRgayx6lrfhPqFr5wtu9GxfNhdBDospM6YV9cUboXTThMTj4cjZRNIe/i5Q==",
+  "dgSpecHash": "mkeejAttOvhj9uIl/u0TiSL9eWZccoMN+uvnQb84YC9BADlgMAU6pKCYPuyUFPMKiyq33TAKGDtavHOAqzODlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husem\\Desktop\\contemfinal\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\husem\\Desktop\\final2\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\husem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\husem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

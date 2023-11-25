@@ -31,10 +31,7 @@ namespace ProductWebMVC.Controllers
                 return StatusCode(500, "A product with this ID already exists");
 
             }
-            if (result == 0)
-            {
-                return StatusCode(500, "An error occured while processing your request");
-            }
+
             return Ok();
         }
         [HttpPut]
@@ -64,6 +61,7 @@ namespace ProductWebMVC.Controllers
                 return StatusCode(500, "An error occured while processing your request");
             }
             return Ok();
+        
 
 
 

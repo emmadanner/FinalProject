@@ -59,7 +59,7 @@ namespace ProductWebMVC.Data
             {
                 return null;
             }
-            ctx.Products.Remove(product);
+            ctx.Products.Remove((Product)product);
             return ctx.SaveChanges();
         }
     }
