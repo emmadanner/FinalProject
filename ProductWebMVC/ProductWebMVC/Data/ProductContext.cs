@@ -14,7 +14,7 @@ namespace ProductWebMVC.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             new Product { Id = 1, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
-                 new Product { Id = 2, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
+                 new Product { Id = 2, year = "junior", name = "kyle doersam", bd = "02/08/2003", program = "IT" },
                  new Product { Id = 3, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
                  new Product { Id = 4, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" }
                 );
