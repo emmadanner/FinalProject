@@ -13,9 +13,10 @@ namespace ProductWebMVC.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>().HasData(
-                new Product { Id=1, Price=200m, Description="First Product"},
-                 new Product { Id = 2, Price = 250m, Description = "Second Product" }
+            new Product { Id = 1, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
+                 new Product { Id = 2, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
+                 new Product { Id = 3, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" },
+                 new Product { Id = 4, year = "senior", name = "sam huseman", bd = "10/06/2000", program = "IT" }
                 );
         }
     }

@@ -5953,11 +5953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husem\\Desktop\\final2\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\husem\\Desktop\\thisone\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
       "projectName": "ProductWebMVC",
-      "projectPath": "C:\\Users\\husem\\Desktop\\final2\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
+      "projectPath": "C:\\Users\\husem\\Desktop\\thisone\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
       "packagesPath": "C:\\Users\\husem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husem\\Desktop\\final2\\ProductWebMVC\\ProductWebMVC\\obj\\",
+      "outputPath": "C:\\Users\\husem\\Desktop\\thisone\\ProductWebMVC\\ProductWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\husem\\AppData\\Roaming\\NuGet\\NuGet.Config",
