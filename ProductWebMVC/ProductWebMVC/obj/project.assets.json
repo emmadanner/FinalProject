@@ -5948,24 +5948,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edann\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\amir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edann\\Documents\\GitHub\\FinalProject\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\amir\\final\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
       "projectName": "ProductWebMVC",
-      "projectPath": "C:\\Users\\edann\\Documents\\GitHub\\FinalProject\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
-      "packagesPath": "C:\\Users\\edann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edann\\Documents\\GitHub\\FinalProject\\ProductWebMVC\\ProductWebMVC\\obj\\",
+      "projectPath": "C:\\Users\\amir\\final\\ProductWebMVC\\ProductWebMVC\\ProductWebMVC.csproj",
+      "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amir\\final\\ProductWebMVC\\ProductWebMVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\edann\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
